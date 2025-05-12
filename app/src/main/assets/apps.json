@@ -1,0 +1,20 @@
+[
+  {
+    "packageName": "com.example.someapp1",
+    "name": "My Awesome App 1",
+    "version": "1.0.5",
+    "description": "This is the first amazing application you can download.",
+    "iconUrl": "https://via.placeholder.com/150/007BFF/FFFFFF?Text=App1",
+    "apkUrl": "YOUR_DIRECT_HTTPS_LINK_TO_APP1.apk",
+    "sizeMb": 12.3
+  },
+  {
+    "packageName": "com.example.utilityapp2",
+    "name": "Super Utility Tool",
+    "version": "2.2.0",
+    "description": "A very useful utility tool for everyday tasks.",
+    "iconUrl": "https://via.placeholder.com/150/28A745/FFFFFF?Text=App2",
+    "apkUrl": "YOUR_DIRECT_HTTPS_LINK_TO_APP2.apk",
+    "sizeMb": 8.7
+  }
+]
